@@ -1,0 +1,50 @@
+.logoFeed {
+  width: 100px;
+  margin: 0 auto;
+  display: block;
+}
+
+.wrapper-feed {
+  width: 600px;
+  margin: 50px auto;
+
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+}
+
+.wrapper-feed form {
+  width: 100%;
+  background: #9fce6136;
+  padding: 20px;
+  border-radius: 5px;
+  margin: 30px 0;
+}
+
+.wrapper-feed form textarea {
+  border: 3px solid #9fce6149;
+  border-radius: 5px;
+  font-size: 14px;
+  padding: 15px;
+  width: 100%;
+  resize: none;
+}
+
+.post-list {
+  list-style: none;
+  color: #3a3a3a;
+}
+
+.button-post {
+  float: right;
+  padding: 7px;
+  border-radius: 12px;
+  background: #9ece61;
+  color: #ffffff;
+  font-size: .9em;
+}
+
+.button-post:hover {
+  background: #c4ec90;
+  color: #3a3a3a;
+}

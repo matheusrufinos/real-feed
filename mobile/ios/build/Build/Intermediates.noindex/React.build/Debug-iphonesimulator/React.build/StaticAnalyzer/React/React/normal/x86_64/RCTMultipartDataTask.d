@@ -1,0 +1,4 @@
+dependencies: \
+  /Users/matheus/Desktop/realfeed/mobile/node_modules/react-native/React/Base/RCTMultipartDataTask.m \
+  /Users/matheus/Desktop/realfeed/mobile/node_modules/react-native/React/Base/RCTMultipartDataTask.h \
+  /Users/matheus/Desktop/realfeed/mobile/node_modules/react-native/React/Base/RCTMultipartStreamReader.h
