@@ -10,6 +10,13 @@
 <br>
 <blockquote>This project has been developed using <a href="https://yarnpkg.com/pt-BR/" target="_blank">yarn</a></blockquote>
 
+<h1>Preview</h1>
+<p float="left">
+  <img src="https://i.imgur.com/qfpkTVM.png" width="280px">
+  <img src="https://i.imgur.com/ttp08AE.png" width="280px">
+  <img src="https://i.imgur.com/xaw61l1.png" width="280px">
+</p>
+
 <h1>Architecture</h1>
 
 <h4>api</h1>
